@@ -84,19 +84,19 @@ class CardCreator {
         let price;
         switch (true) {
           case indexVal >= 7 && indexVal <= 12:
-            price = "$100";
+            price = "♥";
             break;
           case indexVal >= 13 && indexVal <= 18:
-            price = "$200";
+            price = "🤍";
             break;
           case indexVal >= 19 && indexVal <= 24:
-            price = "$300";
+            price = "💘";
             break;
           case indexVal >= 25 && indexVal <= 30:
-            price = "$400";
+            price = "💖";
             break;
           case indexVal >= 31 && indexVal <= 36:
-            price = "$500";
+            price = "💝";
             break;
           default:
             price = "Unknown";
