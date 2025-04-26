@@ -1,6 +1,6 @@
 [
   {
-    "category": "Diaper Duty Delights",
+    "category": "照片",
     "questions": [
       {
         "id": 1,
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "category": "Adorable Animal Kingdom",
+    "category": "你选择",
     "questions": [
       {
         "id": 1,
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "category": "Magical Nursery Tales",
+    "category": "秘密",
     "questions": [
       {
         "id": 1,
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "category": "Adorable Animal Kingdom",
+    "category": "语音信息",
     "questions": [
       {
         "id": 1,
@@ -85,7 +85,7 @@
     ]
   },
   {
-    "category": "Yummy Baby Food Adventures",
+    "category": "爱你",
     "questions": [
       {
         "id": 1,
@@ -106,7 +106,7 @@
     ]
   },
   {
-    "category": "Giggle-Worthy Milestones",
+    "category": "钱",
     "questions": [
       {
         "id": 1,
