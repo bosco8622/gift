@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700&display=swap");
 :root {
-  --primClr: #FFB6C1; /* pastel pink */
-  --accLight: #FFF0F5; /* lavender blush */
-  --accDk: #D3D3D3; /* light grey */
-  --glowClr: rgba(255, 182, 193, 0.755); /* pastel pink glow */
+  --primClr: #FFC0CB; /* softer pastel pink */
+  --accLight: #FFFFFF; /* pure white */
+  --accDk: #F8C8DC; /* very light pink for borders */
+  --glowClr: rgba(255, 182, 193, 0.85); /* brighter pastel pink glow */
   --myFont: "Lobster", cursive;
 }
 
