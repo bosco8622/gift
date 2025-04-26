@@ -4,7 +4,7 @@
   --accLight: #FFFFFF; /* pure white */
   --accDk: #F8C8DC; /* very light pink for borders */
   --glowClr: rgba(255, 182, 193, 0.85); /* brighter pastel pink glow */
-  --myFont: "Lobster", cursive;
+  --myFont: "Poppins", sans-serif;
 }
 
 html {
