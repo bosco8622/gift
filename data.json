@@ -46,11 +46,11 @@
     "questions": [
       {
         "id": 1,
-        "question": "In the nursery rhyme 'Hey Diddle Diddle,' what did the cow jump over?"
+        "question": "I'll watch any show you want together with you"
       },
       {
         "id": 2,
-        "question": "Who is the famous author of the children's book 'Goodnight Moon'?"
+        "question": "I'll sing a song of your choice"
       },
       {
         "id": 3,
@@ -89,15 +89,15 @@
     "questions": [
       {
         "id": 1,
-        "question": "Name three common first foods introduced to babies during the weaning process."
+        "question": "You can ask me any question you like, and I'll answer honestly"
       },
       {
         "id": 2,
-        "question": "True or false: Avocado is a popular ingredient in homemade baby food due to its nutritional benefits."
+        "question": "I'll send you a personalized paragraph u for a week"
       },
       {
         "id": 3,
-        "question": "I'll send you a personalized video everyday"
+        "question": "I'll send you a personalized video everyday for a week"
       },
       {
         "id": 4,
@@ -122,7 +122,7 @@
       },
       {
         "id": 4,
-        "question": "$100 for whatever you want"
+        "question": "$50 for food"
       }
 
     ]
