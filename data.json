@@ -110,19 +110,19 @@
     "questions": [
       {
         "id": 1,
-        "question": "True or false: The average age for a baby's first tooth to emerge is around 6 months."
+        "question": "$4.28 for your birthday"
       },
       {
         "id": 2,
-        "question": "What is the term for a baby's first deliberate movement, often seen as a response to stimuli?"
+        "question": "$10 for flowers"
       },
       {
         "id": 3,
-        "question": "Name three typical milestones that babies achieve during their first year."
+        "question": "$25 for cake"
       },
       {
         "id": 4,
-        "question": "What is the common milestone that involves a baby rolling over for the first time?"
+        "question": "$100 for whatever you want"
       }
 
     ]
