@@ -55,6 +55,7 @@ main {
     align-items: center;
     color: var(--accLight);
     text-align: center;
+    font-size: 30px
 }
 
 .card:hover{
